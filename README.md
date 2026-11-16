@@ -1,2 +1,2 @@
 # Versakey-Companion
-Een companion applicatie voor versa Key midi boards 
+Een companion applicatie voor versakey midi boards 
